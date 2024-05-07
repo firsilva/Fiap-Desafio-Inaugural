@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DESAFIO_DOTNET_INAUGURAL/1.0.0": {
+        "runtime": {
+          "DESAFIO_DOTNET_INAUGURAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DESAFIO_DOTNET_INAUGURAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
